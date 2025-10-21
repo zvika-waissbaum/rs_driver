@@ -209,6 +209,7 @@ struct RSTransformParam  ///< The Point transform parameter
     RS_INFOL << "roll: " << roll << RS_REND;
     RS_INFOL << "pitch: " << pitch << RS_REND;
     RS_INFOL << "yaw: " << yaw << RS_REND;
+   
     RS_INFO << "------------------------------------------------------" << RS_REND;
   }
 };
